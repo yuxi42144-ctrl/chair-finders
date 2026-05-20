@@ -1,6 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "chair-finders",
+  "main": ".open-next/worker.js",
   "compatibility_date": "2026-05-20",
   "compatibility_flags": ["nodejs_compat"],
   "observability": {
